@@ -1,0 +1,960 @@
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\appsettings.Development.json
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\appsettings.json
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Server.staticwebassets.runtime.json
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Server.staticwebassets.endpoints.json
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Server.exe
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Server.deps.json
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Server.runtimeconfig.json
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Server.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Server.pdb
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Firebase.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\FireSharp.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\LiteDB.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\System.Net.Http.Extensions.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\System.Net.Http.Primitives.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\System.Reactive.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\bin\Debug\net9.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.csproj.AssemblyReference.cache
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.AssemblyInfoInputs.cache
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.AssemblyInfo.cs
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.csproj.CoreCompileInputs.cache
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cache
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cs
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.sourcelink.json
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\scopedcss\bundle\Server.styles.css
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\scopedcss\projectbundle\Server.bundle.scp.css
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\z4qvyd9h8i-c2tiyv64ts.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\mluy8ce0wi-61n19gt1b8.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\8uoqmcw7xo-xtxxf3hu2r.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\nn76vlfh0x-nakmwdwsxp.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\hfp1pd04g2-st1cbwfwo5.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\s3j6ofplhe-5p029spbuu.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\vqc7q9q173-5vj65cig9w.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\2ap1y6jbi3-e6q6xbwqzk.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\3860vllqxa-2q4vfeazbq.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\uskdnd5omq-dy6jgresuo.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\bp2srv41p8-o371a8zbv2.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\dvi7vai1zv-mk8rdyw69w.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\ygugrqrdh7-jeal3x0ldm.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\4kf59nim8h-z7kmom2977.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\21ba80n46d-okkk44j0xs.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\z0uc0yjxki-97yrjpyf9r.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\bsjoojjmjd-cwzlr5n8x4.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\qv39q5yn9u-y53cy5s2zj.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\4ylbz2b340-wmug9u23qg.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\7w5eng4jol-z9shlbduue.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\8qooc5etet-j75batdsum.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\rtr9xx70tq-2yn17lgxub.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\dbzey89kih-vy0bq9ydhf.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\y0dii2brj8-ophe14yye5.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\0e537z8141-ab1c3rmv7g.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\1kuwc1ogpc-ik6i2hrs65.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\l1crmvtdmz-56d2bn4wt9.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\bw2h6j6qcc-ozu22stjof.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\nxbasm0ebj-73kdqttayv.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\b4bveulkyi-6gzpyzhau4.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\lltfq84roh-8inm30yfxf.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\lgl3i728uj-gjcw7pocpk.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\46k0trkv22-4gxs3k148c.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\4yrmvbs1ff-6l4ir0ityv.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\d5vwuojjd1-fctod5rc9n.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\43dm6o03db-f6zq8v6eb3.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\pmjhcg6ii5-kbynt5jhd9.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\56eg4q1kba-89qbw8ngem.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\t0kgjwgqmo-c2nslu3uf3.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\zgj7n68h3b-n5w6o92d9r.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\aha7nq1orp-2lgwfvgpvi.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\thsj90e7o5-jqwzsa9uv6.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\k2ejtodwyj-wsezl0heh6.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\muil27ywn8-1piudyfv7h.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\kkg7u8xq0f-6ukhryfubh.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\ovgqa35r44-4908xmbfjr.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\jn0eelf0lb-u33ctipx7g.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\2annpxo4dm-03hjc8e09r.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\w7zgk72fcj-48y08845bh.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\g330uvqfn1-356vix0kms.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\5ofeih963f-ay5nd8zt9x.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\crsjuisn0i-9oaff4kq20.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\czl7clvrrr-6d0lkjaslc.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\eu2638qjav-l1zq2mitth.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\5ikj4sah7c-x0q3zqp4vz.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\9yyh6g9hag-7s2n0ol71w.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\1zy67c69st-ehgnz7f14e.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\j1tyuppcnz-5pze98is44.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\u90e4z2rtn-mlv21k5csn.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\5e6vr7uwon-sjq7jzi3ww.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\compressed\8iiwxkvgng-sjq7jzi3ww.gz
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets.build.json
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets.development.json
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.build.Server.props
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Server.props
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets.pack.json
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.csproj.Up2Date
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\refint\Server.dll
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.pdb
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
+D:\LTMCB\DOAN\filemoi\Server\Server\obj\Debug\net9.0\ref\Server.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\appsettings.Development.json
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\appsettings.json
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Server.staticwebassets.runtime.json
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Server.staticwebassets.endpoints.json
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Server.exe
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Server.deps.json
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Server.runtimeconfig.json
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Server.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Server.pdb
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Firebase.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\FireSharp.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\LiteDB.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\System.Net.Http.Extensions.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\System.Net.Http.Primitives.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\System.Reactive.dll
+D:\filemoi (2)\filemoi\Server\Server\bin\Debug\net9.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.csproj.AssemblyReference.cache
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.AssemblyInfoInputs.cache
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.AssemblyInfo.cs
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.csproj.CoreCompileInputs.cache
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cache
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cs
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.sourcelink.json
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\scopedcss\bundle\Server.styles.css
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\scopedcss\projectbundle\Server.bundle.scp.css
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\z4qvyd9h8i-c2tiyv64ts.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\mluy8ce0wi-61n19gt1b8.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\8uoqmcw7xo-xtxxf3hu2r.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\nn76vlfh0x-nakmwdwsxp.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\hfp1pd04g2-st1cbwfwo5.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\s3j6ofplhe-5p029spbuu.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\vqc7q9q173-5vj65cig9w.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\2ap1y6jbi3-e6q6xbwqzk.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\3860vllqxa-2q4vfeazbq.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\uskdnd5omq-dy6jgresuo.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\bp2srv41p8-o371a8zbv2.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\dvi7vai1zv-mk8rdyw69w.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\ygugrqrdh7-jeal3x0ldm.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\4kf59nim8h-z7kmom2977.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\21ba80n46d-okkk44j0xs.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\z0uc0yjxki-97yrjpyf9r.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\bsjoojjmjd-cwzlr5n8x4.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\qv39q5yn9u-y53cy5s2zj.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\4ylbz2b340-wmug9u23qg.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\7w5eng4jol-z9shlbduue.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\8qooc5etet-j75batdsum.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\rtr9xx70tq-2yn17lgxub.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\dbzey89kih-vy0bq9ydhf.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\y0dii2brj8-ophe14yye5.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\0e537z8141-ab1c3rmv7g.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\1kuwc1ogpc-ik6i2hrs65.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\l1crmvtdmz-56d2bn4wt9.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\bw2h6j6qcc-ozu22stjof.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\nxbasm0ebj-73kdqttayv.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\b4bveulkyi-6gzpyzhau4.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\lltfq84roh-8inm30yfxf.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\lgl3i728uj-gjcw7pocpk.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\46k0trkv22-4gxs3k148c.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\4yrmvbs1ff-6l4ir0ityv.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\d5vwuojjd1-fctod5rc9n.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\43dm6o03db-f6zq8v6eb3.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\pmjhcg6ii5-kbynt5jhd9.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\56eg4q1kba-89qbw8ngem.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\t0kgjwgqmo-c2nslu3uf3.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\zgj7n68h3b-n5w6o92d9r.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\aha7nq1orp-2lgwfvgpvi.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\thsj90e7o5-jqwzsa9uv6.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\k2ejtodwyj-wsezl0heh6.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\muil27ywn8-1piudyfv7h.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\kkg7u8xq0f-6ukhryfubh.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\ovgqa35r44-4908xmbfjr.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\jn0eelf0lb-u33ctipx7g.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\2annpxo4dm-03hjc8e09r.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\w7zgk72fcj-48y08845bh.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\g330uvqfn1-356vix0kms.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\5ofeih963f-ay5nd8zt9x.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\crsjuisn0i-9oaff4kq20.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\czl7clvrrr-6d0lkjaslc.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\eu2638qjav-l1zq2mitth.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\5ikj4sah7c-x0q3zqp4vz.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\9yyh6g9hag-7s2n0ol71w.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\1zy67c69st-ehgnz7f14e.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\j1tyuppcnz-5pze98is44.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\u90e4z2rtn-mlv21k5csn.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\5e6vr7uwon-sjq7jzi3ww.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\compressed\8iiwxkvgng-sjq7jzi3ww.gz
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets.build.json
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets.development.json
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.build.Server.props
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Server.props
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets.pack.json
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.csproj.Up2Date
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.dll
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\refint\Server.dll
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.pdb
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
+D:\filemoi (2)\filemoi\Server\Server\obj\Debug\net9.0\ref\Server.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\appsettings.json
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Server.staticwebassets.runtime.json
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Server.staticwebassets.endpoints.json
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Server.exe
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Server.deps.json
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Server.runtimeconfig.json
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Server.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Server.pdb
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Firebase.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\FireSharp.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\LiteDB.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\System.Net.Http.Extensions.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\System.Net.Http.Primitives.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\System.Reactive.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\bin\Debug\net9.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.csproj.AssemblyReference.cache
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.AssemblyInfoInputs.cache
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.AssemblyInfo.cs
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cache
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cs
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.sourcelink.json
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\scopedcss\bundle\Server.styles.css
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\scopedcss\projectbundle\Server.bundle.scp.css
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\z4qvyd9h8i-c2tiyv64ts.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\mluy8ce0wi-61n19gt1b8.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\8uoqmcw7xo-xtxxf3hu2r.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\nn76vlfh0x-nakmwdwsxp.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\hfp1pd04g2-st1cbwfwo5.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\s3j6ofplhe-5p029spbuu.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\vqc7q9q173-5vj65cig9w.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\2ap1y6jbi3-e6q6xbwqzk.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\3860vllqxa-2q4vfeazbq.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\uskdnd5omq-dy6jgresuo.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\bp2srv41p8-o371a8zbv2.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\dvi7vai1zv-mk8rdyw69w.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\ygugrqrdh7-jeal3x0ldm.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\4kf59nim8h-z7kmom2977.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\21ba80n46d-okkk44j0xs.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\z0uc0yjxki-97yrjpyf9r.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\bsjoojjmjd-cwzlr5n8x4.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\qv39q5yn9u-y53cy5s2zj.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\4ylbz2b340-wmug9u23qg.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\7w5eng4jol-z9shlbduue.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\8qooc5etet-j75batdsum.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\rtr9xx70tq-2yn17lgxub.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\dbzey89kih-vy0bq9ydhf.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\y0dii2brj8-ophe14yye5.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\0e537z8141-ab1c3rmv7g.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\1kuwc1ogpc-ik6i2hrs65.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\l1crmvtdmz-56d2bn4wt9.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\bw2h6j6qcc-ozu22stjof.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\nxbasm0ebj-73kdqttayv.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\b4bveulkyi-6gzpyzhau4.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\lltfq84roh-8inm30yfxf.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\lgl3i728uj-gjcw7pocpk.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\46k0trkv22-4gxs3k148c.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\4yrmvbs1ff-6l4ir0ityv.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\d5vwuojjd1-fctod5rc9n.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\43dm6o03db-f6zq8v6eb3.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\pmjhcg6ii5-kbynt5jhd9.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\56eg4q1kba-89qbw8ngem.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\t0kgjwgqmo-c2nslu3uf3.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\zgj7n68h3b-n5w6o92d9r.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\aha7nq1orp-2lgwfvgpvi.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\thsj90e7o5-jqwzsa9uv6.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\k2ejtodwyj-wsezl0heh6.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\muil27ywn8-1piudyfv7h.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\kkg7u8xq0f-6ukhryfubh.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\ovgqa35r44-4908xmbfjr.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\jn0eelf0lb-u33ctipx7g.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\2annpxo4dm-03hjc8e09r.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\w7zgk72fcj-48y08845bh.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\g330uvqfn1-356vix0kms.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\5ofeih963f-ay5nd8zt9x.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\crsjuisn0i-9oaff4kq20.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\czl7clvrrr-6d0lkjaslc.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\eu2638qjav-l1zq2mitth.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\5ikj4sah7c-x0q3zqp4vz.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\9yyh6g9hag-7s2n0ol71w.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\1zy67c69st-ehgnz7f14e.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\j1tyuppcnz-5pze98is44.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\u90e4z2rtn-mlv21k5csn.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\5e6vr7uwon-sjq7jzi3ww.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\compressed\8iiwxkvgng-sjq7jzi3ww.gz
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.build.Server.props
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.csproj.Up2Date
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\refint\Server.dll
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.pdb
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
+C:\Users\kwebl\source\repos\Pexa\Server\Server\obj\Debug\net9.0\ref\Server.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\appsettings.Development.json
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\appsettings.json
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Server.staticwebassets.endpoints.json
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Server.staticwebassets.runtime.json
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Server.exe
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Server.deps.json
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Server.runtimeconfig.json
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Server.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Server.pdb
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Firebase.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\FireSharp.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\LiteDB.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\System.Net.Http.Extensions.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\System.Net.Http.Primitives.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\System.Reactive.dll
+D:\Pexa\Pexa\Server\Server\bin\Debug\net9.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.csproj.AssemblyReference.cache
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.AssemblyInfoInputs.cache
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.AssemblyInfo.cs
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.csproj.CoreCompileInputs.cache
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cache
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cs
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.sourcelink.json
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\scopedcss\bundle\Server.styles.css
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\scopedcss\projectbundle\Server.bundle.scp.css
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\z4qvyd9h8i-c2tiyv64ts.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\mluy8ce0wi-61n19gt1b8.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\8uoqmcw7xo-xtxxf3hu2r.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\nn76vlfh0x-nakmwdwsxp.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\hfp1pd04g2-st1cbwfwo5.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\s3j6ofplhe-5p029spbuu.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\vqc7q9q173-5vj65cig9w.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\2ap1y6jbi3-e6q6xbwqzk.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\3860vllqxa-2q4vfeazbq.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\uskdnd5omq-dy6jgresuo.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\bp2srv41p8-o371a8zbv2.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\dvi7vai1zv-mk8rdyw69w.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\ygugrqrdh7-jeal3x0ldm.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\4kf59nim8h-z7kmom2977.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\21ba80n46d-okkk44j0xs.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\z0uc0yjxki-97yrjpyf9r.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\bsjoojjmjd-cwzlr5n8x4.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\qv39q5yn9u-y53cy5s2zj.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\4ylbz2b340-wmug9u23qg.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\7w5eng4jol-z9shlbduue.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\8qooc5etet-j75batdsum.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\rtr9xx70tq-2yn17lgxub.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\dbzey89kih-vy0bq9ydhf.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\y0dii2brj8-ophe14yye5.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\0e537z8141-ab1c3rmv7g.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\1kuwc1ogpc-ik6i2hrs65.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\l1crmvtdmz-56d2bn4wt9.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\bw2h6j6qcc-ozu22stjof.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\nxbasm0ebj-73kdqttayv.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\b4bveulkyi-6gzpyzhau4.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\lltfq84roh-8inm30yfxf.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\lgl3i728uj-gjcw7pocpk.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\46k0trkv22-4gxs3k148c.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\4yrmvbs1ff-6l4ir0ityv.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\d5vwuojjd1-fctod5rc9n.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\43dm6o03db-f6zq8v6eb3.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\pmjhcg6ii5-kbynt5jhd9.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\56eg4q1kba-89qbw8ngem.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\t0kgjwgqmo-c2nslu3uf3.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\zgj7n68h3b-n5w6o92d9r.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\aha7nq1orp-2lgwfvgpvi.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\thsj90e7o5-jqwzsa9uv6.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\k2ejtodwyj-wsezl0heh6.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\muil27ywn8-1piudyfv7h.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\kkg7u8xq0f-6ukhryfubh.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\ovgqa35r44-4908xmbfjr.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\jn0eelf0lb-u33ctipx7g.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\2annpxo4dm-03hjc8e09r.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\w7zgk72fcj-48y08845bh.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\g330uvqfn1-356vix0kms.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\5ofeih963f-ay5nd8zt9x.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\crsjuisn0i-9oaff4kq20.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\czl7clvrrr-6d0lkjaslc.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\eu2638qjav-l1zq2mitth.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\5ikj4sah7c-x0q3zqp4vz.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\9yyh6g9hag-7s2n0ol71w.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\1zy67c69st-ehgnz7f14e.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\j1tyuppcnz-5pze98is44.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\u90e4z2rtn-mlv21k5csn.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\5e6vr7uwon-sjq7jzi3ww.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\compressed\8iiwxkvgng-sjq7jzi3ww.gz
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets.build.json
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets.development.json
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.build.Server.props
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Server.props
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.csproj.Up2Date
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.dll
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\refint\Server.dll
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.pdb
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
+D:\Pexa\Pexa\Server\Server\obj\Debug\net9.0\ref\Server.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\appsettings.json
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.staticwebassets.runtime.json
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.staticwebassets.endpoints.json
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.exe
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.deps.json
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.runtimeconfig.json
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.pdb
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Firebase.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\FireSharp.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\LiteDB.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\System.Net.Http.Extensions.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\System.Net.Http.Primitives.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\System.Reactive.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.csproj.AssemblyReference.cache
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.AssemblyInfoInputs.cache
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.AssemblyInfo.cs
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cache
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cs
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.sourcelink.json
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\scopedcss\bundle\Server.styles.css
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\scopedcss\projectbundle\Server.bundle.scp.css
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\z4qvyd9h8i-c2tiyv64ts.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\mluy8ce0wi-61n19gt1b8.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\8uoqmcw7xo-xtxxf3hu2r.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\nn76vlfh0x-nakmwdwsxp.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\hfp1pd04g2-st1cbwfwo5.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\s3j6ofplhe-5p029spbuu.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\vqc7q9q173-5vj65cig9w.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\2ap1y6jbi3-e6q6xbwqzk.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\3860vllqxa-2q4vfeazbq.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\uskdnd5omq-dy6jgresuo.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\bp2srv41p8-o371a8zbv2.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\dvi7vai1zv-mk8rdyw69w.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\ygugrqrdh7-jeal3x0ldm.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\4kf59nim8h-z7kmom2977.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\21ba80n46d-okkk44j0xs.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\z0uc0yjxki-97yrjpyf9r.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\bsjoojjmjd-cwzlr5n8x4.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\qv39q5yn9u-y53cy5s2zj.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\4ylbz2b340-wmug9u23qg.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\7w5eng4jol-z9shlbduue.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\8qooc5etet-j75batdsum.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\rtr9xx70tq-2yn17lgxub.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\dbzey89kih-vy0bq9ydhf.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\y0dii2brj8-ophe14yye5.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\0e537z8141-ab1c3rmv7g.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\1kuwc1ogpc-ik6i2hrs65.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\l1crmvtdmz-56d2bn4wt9.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\bw2h6j6qcc-ozu22stjof.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\nxbasm0ebj-73kdqttayv.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\b4bveulkyi-6gzpyzhau4.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\lltfq84roh-8inm30yfxf.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\lgl3i728uj-gjcw7pocpk.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\46k0trkv22-4gxs3k148c.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\4yrmvbs1ff-6l4ir0ityv.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\d5vwuojjd1-fctod5rc9n.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\43dm6o03db-f6zq8v6eb3.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\pmjhcg6ii5-kbynt5jhd9.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\56eg4q1kba-89qbw8ngem.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\t0kgjwgqmo-c2nslu3uf3.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\zgj7n68h3b-n5w6o92d9r.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\aha7nq1orp-2lgwfvgpvi.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\thsj90e7o5-jqwzsa9uv6.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\k2ejtodwyj-wsezl0heh6.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\muil27ywn8-1piudyfv7h.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\kkg7u8xq0f-6ukhryfubh.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\ovgqa35r44-4908xmbfjr.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\jn0eelf0lb-u33ctipx7g.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\2annpxo4dm-03hjc8e09r.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\w7zgk72fcj-48y08845bh.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\g330uvqfn1-356vix0kms.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\5ofeih963f-ay5nd8zt9x.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\crsjuisn0i-9oaff4kq20.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\czl7clvrrr-6d0lkjaslc.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\eu2638qjav-l1zq2mitth.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\5ikj4sah7c-x0q3zqp4vz.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\9yyh6g9hag-7s2n0ol71w.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\1zy67c69st-ehgnz7f14e.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\j1tyuppcnz-5pze98is44.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\u90e4z2rtn-mlv21k5csn.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\5e6vr7uwon-sjq7jzi3ww.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\8iiwxkvgng-sjq7jzi3ww.gz
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.build.Server.props
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.csproj.Up2Date
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\refint\Server.dll
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.pdb
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
+C:\Users\kwebl\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\ref\Server.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\appsettings.json
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.staticwebassets.runtime.json
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.staticwebassets.endpoints.json
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.exe
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.deps.json
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.runtimeconfig.json
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Server.pdb
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Firebase.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\FireSharp.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\LiteDB.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\System.Net.Http.Extensions.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\System.Net.Http.Primitives.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\System.Reactive.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\bin\Debug\net9.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.csproj.AssemblyReference.cache
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.AssemblyInfoInputs.cache
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.AssemblyInfo.cs
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cache
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cs
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.sourcelink.json
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\scopedcss\bundle\Server.styles.css
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\scopedcss\projectbundle\Server.bundle.scp.css
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\z4qvyd9h8i-c2tiyv64ts.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\mluy8ce0wi-61n19gt1b8.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\8uoqmcw7xo-xtxxf3hu2r.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\nn76vlfh0x-nakmwdwsxp.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\hfp1pd04g2-st1cbwfwo5.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\s3j6ofplhe-5p029spbuu.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\vqc7q9q173-5vj65cig9w.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\2ap1y6jbi3-e6q6xbwqzk.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\3860vllqxa-2q4vfeazbq.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\uskdnd5omq-dy6jgresuo.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\bp2srv41p8-o371a8zbv2.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\dvi7vai1zv-mk8rdyw69w.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\ygugrqrdh7-jeal3x0ldm.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\4kf59nim8h-z7kmom2977.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\21ba80n46d-okkk44j0xs.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\z0uc0yjxki-97yrjpyf9r.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\bsjoojjmjd-cwzlr5n8x4.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\qv39q5yn9u-y53cy5s2zj.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\4ylbz2b340-wmug9u23qg.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\7w5eng4jol-z9shlbduue.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\8qooc5etet-j75batdsum.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\rtr9xx70tq-2yn17lgxub.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\dbzey89kih-vy0bq9ydhf.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\y0dii2brj8-ophe14yye5.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\0e537z8141-ab1c3rmv7g.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\1kuwc1ogpc-ik6i2hrs65.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\l1crmvtdmz-56d2bn4wt9.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\bw2h6j6qcc-ozu22stjof.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\nxbasm0ebj-73kdqttayv.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\b4bveulkyi-6gzpyzhau4.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\lltfq84roh-8inm30yfxf.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\lgl3i728uj-gjcw7pocpk.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\46k0trkv22-4gxs3k148c.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\4yrmvbs1ff-6l4ir0ityv.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\d5vwuojjd1-fctod5rc9n.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\43dm6o03db-f6zq8v6eb3.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\pmjhcg6ii5-kbynt5jhd9.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\56eg4q1kba-89qbw8ngem.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\t0kgjwgqmo-c2nslu3uf3.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\zgj7n68h3b-n5w6o92d9r.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\aha7nq1orp-2lgwfvgpvi.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\thsj90e7o5-jqwzsa9uv6.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\k2ejtodwyj-wsezl0heh6.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\muil27ywn8-1piudyfv7h.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\kkg7u8xq0f-6ukhryfubh.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\ovgqa35r44-4908xmbfjr.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\jn0eelf0lb-u33ctipx7g.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\2annpxo4dm-03hjc8e09r.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\w7zgk72fcj-48y08845bh.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\g330uvqfn1-356vix0kms.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\5ofeih963f-ay5nd8zt9x.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\crsjuisn0i-9oaff4kq20.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\czl7clvrrr-6d0lkjaslc.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\eu2638qjav-l1zq2mitth.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\5ikj4sah7c-x0q3zqp4vz.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\9yyh6g9hag-7s2n0ol71w.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\1zy67c69st-ehgnz7f14e.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\j1tyuppcnz-5pze98is44.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\u90e4z2rtn-mlv21k5csn.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\5e6vr7uwon-sjq7jzi3ww.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\compressed\8iiwxkvgng-sjq7jzi3ww.gz
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.build.Server.props
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.csproj.Up2Date
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\refint\Server.dll
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.pdb
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
+C:\Users\Pexa\source\repos\BombMasterfn\Server\Server\obj\Debug\net9.0\ref\Server.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\appsettings.Development.json
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\appsettings.json
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Server.staticwebassets.runtime.json
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Server.staticwebassets.endpoints.json
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Server.exe
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Server.deps.json
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Server.runtimeconfig.json
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Server.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Server.pdb
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Firebase.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\FireSharp.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\LiteDB.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\System.Net.Http.Extensions.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\System.Net.Http.Primitives.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\System.Reactive.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\bin\Debug\net9.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.csproj.AssemblyReference.cache
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.AssemblyInfoInputs.cache
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.AssemblyInfo.cs
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.csproj.CoreCompileInputs.cache
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cache
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cs
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.sourcelink.json
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\scopedcss\bundle\Server.styles.css
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\scopedcss\projectbundle\Server.bundle.scp.css
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\z4qvyd9h8i-c2tiyv64ts.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\mluy8ce0wi-61n19gt1b8.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\8uoqmcw7xo-xtxxf3hu2r.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\nn76vlfh0x-nakmwdwsxp.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\hfp1pd04g2-st1cbwfwo5.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\s3j6ofplhe-5p029spbuu.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\vqc7q9q173-5vj65cig9w.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\2ap1y6jbi3-e6q6xbwqzk.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\3860vllqxa-2q4vfeazbq.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\uskdnd5omq-dy6jgresuo.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\bp2srv41p8-o371a8zbv2.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\dvi7vai1zv-mk8rdyw69w.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\ygugrqrdh7-jeal3x0ldm.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\4kf59nim8h-z7kmom2977.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\21ba80n46d-okkk44j0xs.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\z0uc0yjxki-97yrjpyf9r.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\bsjoojjmjd-cwzlr5n8x4.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\qv39q5yn9u-y53cy5s2zj.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\4ylbz2b340-wmug9u23qg.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\7w5eng4jol-z9shlbduue.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\8qooc5etet-j75batdsum.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\rtr9xx70tq-2yn17lgxub.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\dbzey89kih-vy0bq9ydhf.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\y0dii2brj8-ophe14yye5.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\0e537z8141-ab1c3rmv7g.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\1kuwc1ogpc-ik6i2hrs65.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\l1crmvtdmz-56d2bn4wt9.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\bw2h6j6qcc-ozu22stjof.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\nxbasm0ebj-73kdqttayv.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\b4bveulkyi-6gzpyzhau4.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\lltfq84roh-8inm30yfxf.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\lgl3i728uj-gjcw7pocpk.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\46k0trkv22-4gxs3k148c.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\4yrmvbs1ff-6l4ir0ityv.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\d5vwuojjd1-fctod5rc9n.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\43dm6o03db-f6zq8v6eb3.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\pmjhcg6ii5-kbynt5jhd9.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\56eg4q1kba-89qbw8ngem.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\t0kgjwgqmo-c2nslu3uf3.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\zgj7n68h3b-n5w6o92d9r.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\aha7nq1orp-2lgwfvgpvi.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\thsj90e7o5-jqwzsa9uv6.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\k2ejtodwyj-wsezl0heh6.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\muil27ywn8-1piudyfv7h.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\kkg7u8xq0f-6ukhryfubh.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\ovgqa35r44-4908xmbfjr.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\jn0eelf0lb-u33ctipx7g.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\2annpxo4dm-03hjc8e09r.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\w7zgk72fcj-48y08845bh.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\g330uvqfn1-356vix0kms.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\5ofeih963f-ay5nd8zt9x.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\crsjuisn0i-9oaff4kq20.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\czl7clvrrr-6d0lkjaslc.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\eu2638qjav-l1zq2mitth.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\5ikj4sah7c-x0q3zqp4vz.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\9yyh6g9hag-7s2n0ol71w.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\1zy67c69st-ehgnz7f14e.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\j1tyuppcnz-5pze98is44.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\u90e4z2rtn-mlv21k5csn.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\5e6vr7uwon-sjq7jzi3ww.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\compressed\8iiwxkvgng-sjq7jzi3ww.gz
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\staticwebassets.build.json
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\staticwebassets.development.json
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.build.Server.props
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Server.props
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\staticwebassets.pack.json
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.csproj.Up2Date
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\refint\Server.dll
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.pdb
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
+D:\LTMCB\DOAN\pexa2612\Server\Server\obj\Debug\net9.0\ref\Server.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\appsettings.json
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Server.staticwebassets.runtime.json
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Server.staticwebassets.endpoints.json
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Server.exe
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Server.deps.json
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Server.runtimeconfig.json
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Server.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Server.pdb
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Firebase.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\FireSharp.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\LiteDB.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Microsoft.Threading.Tasks.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\System.Net.Http.Extensions.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\System.Net.Http.Primitives.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\System.Reactive.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\bin\Debug\net9.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.csproj.AssemblyReference.cache
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.AssemblyInfoInputs.cache
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.AssemblyInfo.cs
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cache
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.RazorAssemblyInfo.cs
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.sourcelink.json
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\scopedcss\bundle\Server.styles.css
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\scopedcss\projectbundle\Server.bundle.scp.css
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\z4qvyd9h8i-fosamezn9b.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\mluy8ce0wi-61n19gt1b8.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\8uoqmcw7xo-fr7q2aak1r.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\nn76vlfh0x-agp80tu62r.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\hfp1pd04g2-st1cbwfwo5.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\s3j6ofplhe-unj9p35syc.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\vqc7q9q173-5vj65cig9w.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\2ap1y6jbi3-q2ku51ktnl.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\3860vllqxa-2q4vfeazbq.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\uskdnd5omq-n1oizzvkh6.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\bp2srv41p8-o371a8zbv2.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\dvi7vai1zv-7na4sro3qu.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\ygugrqrdh7-jeal3x0ldm.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\4kf59nim8h-f8imaxxbri.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\21ba80n46d-okkk44j0xs.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\z0uc0yjxki-0wve5yxp74.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\bsjoojjmjd-cwzlr5n8x4.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\qv39q5yn9u-npxfuf8dg6.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\4ylbz2b340-wmug9u23qg.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\7w5eng4jol-tey0rigmnh.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\8qooc5etet-j75batdsum.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\rtr9xx70tq-16095smhkz.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\dbzey89kih-vy0bq9ydhf.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\y0dii2brj8-b4skse8du6.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\0e537z8141-ab1c3rmv7g.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\1kuwc1ogpc-u3xrusw2ol.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\l1crmvtdmz-56d2bn4wt9.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\bw2h6j6qcc-mpyigms19s.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\nxbasm0ebj-73kdqttayv.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\b4bveulkyi-bpk8xqwxhs.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\lltfq84roh-8inm30yfxf.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\lgl3i728uj-ve6x09088i.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\46k0trkv22-4gxs3k148c.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\4yrmvbs1ff-9b9oa1qrmt.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\d5vwuojjd1-fctod5rc9n.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\43dm6o03db-l2av4jpuoj.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\pmjhcg6ii5-kbynt5jhd9.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\56eg4q1kba-25iw1kog22.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\t0kgjwgqmo-c2nslu3uf3.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\zgj7n68h3b-m39kt2b5c9.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\aha7nq1orp-2lgwfvgpvi.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\thsj90e7o5-um2aeqy4ik.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\k2ejtodwyj-wsezl0heh6.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\muil27ywn8-o4kw7cc6tf.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\kkg7u8xq0f-6ukhryfubh.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\ovgqa35r44-zwph15dxgs.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\jn0eelf0lb-u33ctipx7g.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\2annpxo4dm-47otxtyo56.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\w7zgk72fcj-4v8eqarkd7.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\g330uvqfn1-l3n5xuwxn8.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\5ofeih963f-gcjdx5jb8l.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\crsjuisn0i-35gxhxa0gh.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\czl7clvrrr-pzqfkb6aqo.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\eu2638qjav-b7iojwaux1.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\5ikj4sah7c-xzw0cte36n.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\9yyh6g9hag-fwhahm2icz.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\1zy67c69st-dd6z7egasc.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\j1tyuppcnz-5pze98is44.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\u90e4z2rtn-jfsiqqwiad.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\5e6vr7uwon-sjq7jzi3ww.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\compressed\8iiwxkvgng-sjq7jzi3ww.gz
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.build.Server.props
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.csproj.Up2Date
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\refint\Server.dll
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.pdb
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
+C:\Users\THANG\source\repos\EPL7\Bombmaster4-main\Server\Server\obj\Debug\net9.0\ref\Server.dll

@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|c:\\users\\thang\\source\\repos\\epl7\\bombmaster4-main\\supertank\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|c:\\users\\thang\\source\\repos\\epl7\\bombmaster4-main\\supertank\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|c:\\users\\thang\\source\\repos\\epl7\\bombmaster4-main\\supertank\\windowsforms\\frmgamemulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\windowsforms\\frmgamemulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|c:\\users\\thang\\source\\repos\\epl7\\bombmaster4-main\\supertank\\windowsforms\\frmgamemulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\windowsforms\\frmgamemulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|c:\\users\\thang\\source\\repos\\epl7\\bombmaster4-main\\supertank\\windowsforms\\frmgamemulti.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\windowsforms\\frmgamemulti.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|c:\\users\\thang\\source\\repos\\epl7\\bombmaster4-main\\dangky_firebasedb\\datlaimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|solutionrelative:dangky_firebasedb\\datlaimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\dangky_firebasedb\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|solutionrelative:dangky_firebasedb\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\dangky_firebasedb\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|solutionrelative:dangky_firebasedb\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\dangky_firebasedb\\sanhcho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|solutionrelative:dangky_firebasedb\\sanhcho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\dangky_firebasedb\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A09795AE-9E38-4F04-8BD6-3380D5C05642}|DangKy_FirebaseDB\\SinIn_Up.csproj|solutionrelative:dangky_firebasedb\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatRoom.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\SuperTank\\ChatRoom.cs",
+              "RelativeDocumentMoniker": "SuperTank\\ChatRoom.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\SuperTank\\ChatRoom.cs",
+              "RelativeToolTip": "SuperTank\\ChatRoom.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA0wCUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:10:57.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\SuperTank\\ChatRoom.cs",
+              "RelativeDocumentMoniker": "SuperTank\\ChatRoom.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\SuperTank\\ChatRoom.cs [Design]",
+              "RelativeToolTip": "SuperTank\\ChatRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:10:56.049Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmGameMulti.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\SuperTank\\WindowsForms\\frmGameMulti.Designer.cs",
+              "RelativeDocumentMoniker": "SuperTank\\WindowsForms\\frmGameMulti.Designer.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\SuperTank\\WindowsForms\\frmGameMulti.Designer.cs",
+              "RelativeToolTip": "SuperTank\\WindowsForms\\frmGameMulti.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T04:54:10.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmGameMulti.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\SuperTank\\WindowsForms\\frmGameMulti.cs",
+              "RelativeDocumentMoniker": "SuperTank\\WindowsForms\\frmGameMulti.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\SuperTank\\WindowsForms\\frmGameMulti.cs",
+              "RelativeToolTip": "SuperTank\\WindowsForms\\frmGameMulti.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T04:43:36.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmGameMulti.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\SuperTank\\WindowsForms\\frmGameMulti.cs",
+              "RelativeDocumentMoniker": "SuperTank\\WindowsForms\\frmGameMulti.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\SuperTank\\WindowsForms\\frmGameMulti.cs [Design]",
+              "RelativeToolTip": "SuperTank\\WindowsForms\\frmGameMulti.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T04:44:23.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanhCho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\DangKy_FirebaseDB\\SanhCho.cs",
+              "RelativeDocumentMoniker": "DangKy_FirebaseDB\\SanhCho.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\DangKy_FirebaseDB\\SanhCho.cs [Design]",
+              "RelativeToolTip": "DangKy_FirebaseDB\\SanhCho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:38:57.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuenMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\DangKy_FirebaseDB\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "DangKy_FirebaseDB\\QuenMatKhau.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\DangKy_FirebaseDB\\QuenMatKhau.cs [Design]",
+              "RelativeToolTip": "DangKy_FirebaseDB\\QuenMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:38:56.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatLaiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\DangKy_FirebaseDB\\DatLaiMatKhau.cs",
+              "RelativeDocumentMoniker": "DangKy_FirebaseDB\\DatLaiMatKhau.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\DangKy_FirebaseDB\\DatLaiMatKhau.cs [Design]",
+              "RelativeToolTip": "DangKy_FirebaseDB\\DatLaiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:38:55.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\DangKy_FirebaseDB\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangKy_FirebaseDB\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\DangKy_FirebaseDB\\DangNhap.cs [Design]",
+              "RelativeToolTip": "DangKy_FirebaseDB\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:38:55.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\DangKy_FirebaseDB\\DangKy.cs",
+              "RelativeDocumentMoniker": "DangKy_FirebaseDB\\DangKy.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL7\\Bombmaster4-main\\DangKy_FirebaseDB\\DangKy.cs [Design]",
+              "RelativeToolTip": "DangKy_FirebaseDB\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:38:49.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

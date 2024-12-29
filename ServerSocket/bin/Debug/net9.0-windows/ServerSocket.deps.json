@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ServerSocket/1.0.0": {
+        "runtime": {
+          "ServerSocket.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServerSocket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
